@@ -1,0 +1,8 @@
+path: /raid/jupyterhub/datasets/boneage_yolo/  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/valid  # val images (relative to 'path')
+test:  # test images (optional)
+
+# Classes
+nc: 6 # number of classes
+names: ['DIP', 'PIP', 'MCP', 'Radius', 'Ulna', 'Wrist'] # class names
