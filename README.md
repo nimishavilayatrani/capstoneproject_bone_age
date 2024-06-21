@@ -24,4 +24,10 @@ After applying various models, the best-performing model and the corresponding g
 Prof. Dr. Christoph M. Friedrich: For providing initial input and guidance for the project.
 Ralf Weidemann: For granting access to the university server.
 ChatGPT and Google: For additional help and resources during the project.
+
+
+
+
+
+
 by Nimisha vilayatarani Matriculation Number 7219293
